@@ -8,9 +8,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #e1e3e7;
+}
 
 header{
-       margin: 44px 0 144px 76px;   
+    margin: 44px 0 144px 76px;   
 }
 
 .link-header{
